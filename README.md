@@ -8,7 +8,7 @@
   Para esse Projeto foi utilizado a API <strong>open weather api</strong>, onde mostra em tempo real,
   as informações de clima de mais ou menos 200 cidades ao redor do mundo.
 </p>
-
+<br>
 <p>
   Esse não é um projeto muito complexo, e até bem simples de se fazer, as Tecnologias utilizadas foram:
   <ul>
@@ -16,3 +16,5 @@
     <li>CSS3</li>
     <li>Javascript</li>
   </ul>
+</p> 
+
