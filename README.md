@@ -1,8 +1,9 @@
+<h1>Consulta Clima</h1>
+<br> 
+
 ![Consulta Clima 1](https://user-images.githubusercontent.com/74883711/204114524-c607dc86-6a55-469e-ad44-c29879940a1d.png)
 
 <br>
-<h1>Consulta Clima</h1>
-
 <p> 
   Sistema web simples para pesquisar clima em diversas cidades. 
 </p>
