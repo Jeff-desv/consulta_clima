@@ -10,7 +10,7 @@
 
 <p>
   Para esse Projeto foi utilizado a API <strong>open weather api</strong>, onde mostra em tempo real,
-  as informações de clima de mais ou menos 200 cidades ao redor do mundo.
+  as informações de clima de mais ou menos 200 cidades ao redor do mundo. Todo conteúdo da página e trago de forma Dinâmica.
 </p>
 <br>
 <p>
