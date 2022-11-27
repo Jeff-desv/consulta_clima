@@ -20,4 +20,5 @@
     <li>Javascript</li>
   </ul>
 </p> 
+![Consulta Clima](https://user-images.githubusercontent.com/74883711/204114551-f48c7275-1166-409b-a36f-d99439c44ecf.png)
 
